@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **JavaScript & React JS**
 - :thought_balloon: Always thinking positive :writing_hand:
 - ⚡ Fun fact **I think I'm funny :) **
--
+-  :earth_africa: If you can dream it, you can build it :mage:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/samuel hernandez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuel hernandez" height="30" width="40" /></a>
