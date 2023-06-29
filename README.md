@@ -1,5 +1,5 @@
 
-![MasterHead](https://media.tenor.com/-buzIaq-QeoAAAAC/code-coding.gif |width=100)
+![MasterHead](https://media.tenor.com/-buzIaq-QeoAAAAC/code-coding.gif) 
 <h1 align="center">Hi 👋. I'm Samuel Hernandez</h1>
 <h3 align="center">A passionate CS student, passionate about frontend development and tech</h3>
 
