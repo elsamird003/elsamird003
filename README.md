@@ -1,13 +1,13 @@
 [![MasterHead](https://media.tenor.com/-buzIaq-QeoAAAAC/code-coding.gif)
 <h1 align="center">Hi 👋. I'm Samuel Hernandez</h1>
-<h3 align="center">A passionate CS student, passionate on frontend development and tech</h3>
+<h3 align="center">A passionate CS student, passionate about frontend development and tech</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
-- 🌱 I’m currently learning **Node JS, React JS**
-
-- ⚡ Fun fact **I think I'm funy**
-
+- 🌱 I’m currently learning **JavaScript & React JS**
+- :thought_balloon: Always thinking positive :writing_hand:
+- ⚡ Fun fact **I think I'm funny :) **
+-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/samuel hernandez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuel hernandez" height="30" width="40" /></a>
