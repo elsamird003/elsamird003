@@ -11,7 +11,7 @@
 -  :earth_africa: If you can dream it, you can build it :mage:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/samuel hernandez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuel hernandez" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/samuel hernandez](https://www.linkedin.com/in/samuel-hernandez-baa5b121b/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuel hernandez" height="30" width="40" /></a>
 <a href="https://fb.com/samuel guzman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="samuel guzman" height="30" width="40" /></a>
 </p>
 
