@@ -8,7 +8,8 @@
 -  ### 🌍 About Me (Beyond Tech)
 - ⚡ Fun fact: **I like to think I'm pretty funny :)**
 - 🏀 I love playing **soccer** and **basketball**  
-- 🌄 Big fan of **hiking** and exploring nature  
+- 🌄 Big fan of **hiking** and exploring nature
+
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
