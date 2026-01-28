@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋. I'm Samuel Hernandez</h1>
-<h3 align="center">A passionate CS graduate with a Bachelor's in Computer Science from UMass Amherst, focused on building systems and web applications</h3>
+<h3 align="center">CS graduate with a Bachelor's in Computer Science from UMass Amherst, focused on building systems and web applications</h3>
 
 - 🌱 Currently learning more about Python.  
 - :thought_balloon: Always staying positive and curious :writing_hand:  
