@@ -1,33 +1,38 @@
+<h1 align="center">Hi 👋, I'm Samuel Hernandez</h1>
+<h3 align="center">Computer Science Graduate from UMass Amherst | Full-Stack Developer & Systems Enthusiast</h3>
 
+<p align="center">
+  <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="400">
+</p>
 
-<h1 align="center">Hi 👋. I'm Samuel Hernandez</h1>
-<h3 align="center">CS graduate with a Bachelor's in Computer Science from UMass Amherst, focused on building systems and web applications</h3>
+---
 
-- 🌱 Currently learning more about Python.  
-- :thought_balloon: Always staying positive and curious :writing_hand:  
--  :earth_africa: If you can dream it, you can build it :mage:
--  ### 🌍 About Me (Beyond Tech)
-- ⚡ Fun fact: **I like to think I'm pretty funny :)**
-- 🏀 I love playing **soccer** and **basketball**  
-- 🌄 Big fan of **hiking** and exploring nature
+### 🚀 About Me
+- 🎓 **Education:** B.S. in Computer Science (UMass Amherst) & A.S. in Computer Science and Engineering (STCC).
+- 🌱 **Currently Learning:** Advancing my skills in **Python**, **AWS Cloud Architecture**, and **Machine Learning**.
+- 💡 **Philosophy:** "If you can dream it, you can build it."
 
+### 🛠️ Featured Projects
+- 🌿 **LeafDex:** Full-stack web app using Computer Vision (TensorFlow.js) to identify plant species.
+- 💳 **SafePay:** Machine Learning pipeline (Random Forest) for high-accuracy fraud detection.
+- 💻 **Memory Simulator:** C++ model of CPU data flow, TLB, and physical memory.
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
+### 🌍 Beyond Tech
+- 🏀 **Sports:** Huge fan of soccer and basketball.
+- 🌄 **Outdoors:** I love hiking and exploring nature.
+- ⚡ **Fun Fact:** I like to think I'm pretty funny :)
 
+---
 
+### 🛠️ Languages and Tools
 
+| | | | | | | | |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/></a> | <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/></a> | <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" width="45" height="45"/></a> | <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/></a> | <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/></a> | <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/></a> | <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/primary/numpylogo.svg" alt="NumPy" width="45" height="45"/></a> 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>   </a>
- </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C Programming Language" width="40" height="40"/>
-</a>
-<a href="https://numpy.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/primary/numpylogo.svg" alt="NumPy" width="40" height="40"/>
-</a>
+---
 
+### 📈 Stats
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=elsamird003&show_icons=true&theme=radical" alt="Samuel's Github Stats" />
+</p>
